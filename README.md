@@ -38,15 +38,15 @@ Since any particular component might require the use of a number of different to
 
 ## SECTIONAL CONTENTS
 
-  - [![Technical Information](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bookshelf-24.png)  **TECHNICAL INFORMATION**](techinfo)
+  - [![Technical Information](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/bookshelf-24.png)  **TECHNICAL INFORMATION**](https://ameenkb.github.io/techinfo)
   
-  - [![Tutorial](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **TUTORIAL**](tutorial)
+  - [![Tutorial](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **TUTORIAL**](https://ameenkb.github.io/tutorial)
 
-  - [![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/clock-24.png)  **COURSE PROGRESS**](progress)
+  - [![Course Progress](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/clock-24.png)  **COURSE PROGRESS**](https://ameenkb.github.io/progress)
   
-  - [![ProjectS](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **PROJECTS**](project)
+  - [![ProjectS](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/compose-24.png)  **PROJECTS**](https://ameenkb.github.io/project)
   
-  - [![Gallery](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/hotair-24.png)  **GALLERY**](gallery)
+  - [![Gallery](https://cdn2.iconfinder.com/data/icons/circle-icons-1/64/hotair-24.png)  **GALLERY**](https://ameenkb.github.io/gallery)
 
 ![Break](https://raw.githubusercontent.com/ameenkb/ameenkb.github.io/master/Images/Blank.png)
 
